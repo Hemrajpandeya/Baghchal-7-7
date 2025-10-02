@@ -1,9 +1,6 @@
 # Baghchal-7-7
 A 7×7 Bagh-Chal (Tiger–Goat) variant on an **alquerque** graph with **multi-jump** (tigers), **goat sanctuaries** (uncapturable edge-midpoints), and a **KO (threefold)** draw rule. Includes a Tkinter GUI and an RL-ready environment.
 
-> Paper (Milestone 1): add link  
-> Code: this repo
-
 ![screenshot](docs/figures/gui-placeholder.png)
 
 ---
